@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e270218c.css",
+    "main.js": "/static/js/main.54c520f3.js",
+    "static/media/light.jpg": "/static/media/light.4a32aa2865f8c248e944.jpg",
+    "static/media/wait.mp4": "/static/media/wait.89e02f76195b38e41e99.mp4",
+    "static/media/dark.jpg": "/static/media/dark.399ca3abfcf6cc84e59e.jpg",
+    "static/media/evening.jpg": "/static/media/evening.74f9b147c2aa4f5f6c83.jpg",
+    "static/media/fon4.jpg": "/static/media/fon4.221380142d393ebeb172.jpg",
+    "static/media/best.png": "/static/media/best.9442b36b750603d11e94.png",
+    "static/media/not-found.png": "/static/media/not-found.1062f5e41ef989b5973a.png",
+    "static/media/lightsaber.svg": "/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
+    "static/media/space-station.svg": "/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
+    "static/media/droid.svg": "/static/media/droid.de165dd887badb2bdbe9d97b8e527c6f.svg",
+    "static/media/favorite-fill.svg": "/static/media/favorite-fill.bc162d09afe4e25ae55eee850608cc97.svg",
+    "static/media/favorite.svg": "/static/media/favorite.827692896de05d5e41bb46e23308c286.svg",
+    "static/media/cancel.svg": "/static/media/cancel.1d37b349388167de6bd090b5731bf27e.svg",
+    "static/media/loader-black.svg": "/static/media/loader-black.b67d16eb2f057e3b3cf011ec4c02d8e3.svg",
+    "static/media/loader-blue.svg": "/static/media/loader-blue.15bee0d155954b2f19c73aeda3988e00.svg",
+    "static/media/loader-white.svg": "/static/media/loader-white.8beec21fe2e63843c785c6c9095c960e.svg",
+    "index.html": "/index.html",
+    "static/media/back.svg": "/static/media/back.1640ee54a71d12449eec15d68bbfc14e.svg",
+    "main.e270218c.css.map": "/static/css/main.e270218c.css.map",
+    "main.54c520f3.js.map": "/static/js/main.54c520f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e270218c.css",
+    "static/js/main.54c520f3.js"
+  ]
+}
